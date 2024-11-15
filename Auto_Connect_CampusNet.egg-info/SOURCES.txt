@@ -1,0 +1,8 @@
+Auto-Connect-CampusNet.py
+__init__.py
+setup.py
+Auto_Connect_CampusNet.egg-info/PKG-INFO
+Auto_Connect_CampusNet.egg-info/SOURCES.txt
+Auto_Connect_CampusNet.egg-info/dependency_links.txt
+Auto_Connect_CampusNet.egg-info/requires.txt
+Auto_Connect_CampusNet.egg-info/top_level.txt
